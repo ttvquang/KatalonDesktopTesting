@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "0E30D326D0F0364D7AF42135F4B44FE1",
+  "keywordClasses": [
+    {
+      "name": "com.test.customkeyword.CustomFunction",
+      "keywordMethods": [
+        {
+          "name": "generateRandomNumber",
+          "parameters": [
+            {
+              "name": "max",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

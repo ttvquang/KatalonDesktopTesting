@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case 1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fff04f27-0739-4003-97e7-afaf30dd98f4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>90183849-31f3-4da3-952d-e5cf49b4bc98</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'tested_file.txt'</defaultValue>
+      <description></description>
+      <id>90183849-31f3-4da3-952d-e5cf49b4bc98</id>
+      <masked>false</masked>
+      <name>fileName</name>
+   </variable>
+</TestCaseEntity>

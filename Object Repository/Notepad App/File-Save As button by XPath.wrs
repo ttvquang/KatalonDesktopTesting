@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>File-Save As button by XPath</name>
+   <tag></tag>
+   <locator>//Menu[@Name='File']/MenuItem[@Name='Save As...']</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>
